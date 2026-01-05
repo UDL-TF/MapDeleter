@@ -5,19 +5,19 @@
   </p>
   <p style="margin-bottom: 0.5ex;">
     <img
-        src="https://img.shields.io/github/downloads/Tolfx/MapDeleter/total"
+        src="https://img.shields.io/github/downloads/Tolfx/UDL-TF/total"
     />
     <img
-        src="https://img.shields.io/github/last-commit/Tolfx/MapDeleter"
+        src="https://img.shields.io/github/last-commit/UDL-TF/MapDeleter"
     />
     <img
-        src="https://img.shields.io/github/issues/Tolfx/MapDeleter"
+        src="https://img.shields.io/github/issues/UDL-TF/MapDeleter"
     />
     <img
-        src="https://img.shields.io/github/issues-closed/Tolfx/MapDeleter"
+        src="https://img.shields.io/github/issues-closed/UDL-TF/MapDeleter"
     />
     <img
-        src="https://img.shields.io/github/repo-size/Tolfx/MapDeleter"
+        src="https://img.shields.io/github/repo-size/UDL-TF/MapDeleter"
     />
     <img
         src="https://img.shields.io/github/workflow/status/Tolfx/MapDeleter/Compile%20and%20release"
